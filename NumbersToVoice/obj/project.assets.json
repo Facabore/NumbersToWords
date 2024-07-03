@@ -6281,11 +6281,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fabia\\RiderProjects\\NumbersToVoice\\NumbersToVoice\\NumbersToVoice.csproj",
+      "projectUniqueName": "Z:\\ForPresent\\NumbersToWords\\NumbersToVoice\\NumbersToVoice.csproj",
       "projectName": "NumbersToVoice",
-      "projectPath": "C:\\Users\\fabia\\RiderProjects\\NumbersToVoice\\NumbersToVoice\\NumbersToVoice.csproj",
+      "projectPath": "Z:\\ForPresent\\NumbersToWords\\NumbersToVoice\\NumbersToVoice.csproj",
       "packagesPath": "C:\\Users\\fabia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fabia\\RiderProjects\\NumbersToVoice\\NumbersToVoice\\obj\\",
+      "outputPath": "Z:\\ForPresent\\NumbersToWords\\NumbersToVoice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fabia\\AppData\\Roaming\\NuGet\\NuGet.Config"

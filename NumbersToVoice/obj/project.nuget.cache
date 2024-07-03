@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yYaMQ9M5RliViJSJd0acRif0hw5rXaOKt1+amc4uLtSR1zvUzCWJAyTEzhXFqdziT1vB6I9dGhL9PrkjrXYFaQ==",
+  "dgSpecHash": "N8kkgX8ifUDGxmRT2wMygFGX21Gs3HKHNKjP541ZAJMkkEukevYZZNC6BXL2Vo2bqHxXUuxMCSHRyuGlZJf8eQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fabia\\RiderProjects\\NumbersToVoice\\NumbersToVoice\\NumbersToVoice.csproj",
+  "projectFilePath": "Z:\\ForPresent\\NumbersToWords\\NumbersToVoice\\NumbersToVoice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabia\\.nuget\\packages\\awssdk.core\\3.7.304.23\\awssdk.core.3.7.304.23.nupkg.sha512",
     "C:\\Users\\fabia\\.nuget\\packages\\awssdk.polly\\3.7.304.6\\awssdk.polly.3.7.304.6.nupkg.sha512",
