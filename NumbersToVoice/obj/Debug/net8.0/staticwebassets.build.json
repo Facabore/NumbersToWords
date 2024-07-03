@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QIPPnVXzI6NgnNOy/WAm23Za4W+RmDW+hv2FmHQ+OZw=",
+  "Source": "NumbersToVoice",
+  "BasePath": "_content/NumbersToVoice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

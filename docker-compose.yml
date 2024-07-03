@@ -1,0 +1,6 @@
+﻿services:
+  numberstovoice:
+    image: numberstovoice
+    build:
+      context: .
+      dockerfile: NumbersToVoice/Dockerfile
